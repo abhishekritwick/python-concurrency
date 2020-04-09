@@ -1,4 +1,4 @@
 # python-concurrency
 
-activate virtual env
-pip install -r requirements.txt
+1. activate virtual env
+2. pip install -r requirements.txt
